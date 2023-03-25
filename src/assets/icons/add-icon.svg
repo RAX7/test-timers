@@ -1,0 +1,10 @@
+<svg
+  width="20"
+  height="20"
+  viewBox="0 0 20 20"
+  fill="none"
+  aria-hidden="true"
+  focusable="false"
+>
+  <path d="m8.5,0h3v20h-3V0ZM0,11.5v-3h20v3H0Z" fill="currentColor" />
+</svg>
